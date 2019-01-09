@@ -1,16 +1,12 @@
 {
-  "webcredentials": {
-      "apps": ["GENR57UK7B.com.swiftmile.app" ]
-  },
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "GENR57UK7B.com.swiftmile.app",
-        "paths": [
-          "*"
-        ]
-      }
-    ]
-  }
+	"webcredentials": {
+     	"apps": ["GENR57UK7B.com.swiftmile.app" ]
+  	},
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "GENR57UK7B.com.swiftmile.app",
+            "paths": ["/invite"]
+            }]
+    }
 }
