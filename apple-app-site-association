@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "GENR57UK7B.com.swiftmile.app",
-            "paths": ["/invite-redirect"]
+            "paths": ["/invite"]
             }]
     }
 }
